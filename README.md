@@ -1,4 +1,4 @@
-[![rdas-nev's 42 stats](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/stats?cursusId=21&coalitionId=120)](https://github.com/JaeSeoKim/badge42)
+https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/stats?cursusId=21&coalitionId=120
 ### Text Editor
 ![JavaScript](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 <br />
