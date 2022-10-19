@@ -15,8 +15,10 @@
 <br />
 42_libft         [![rdas-nev's 42 Libft Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2497460)](https://github.com/JaeSeoKim/badge42)
 <br />
-## Text Editors
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![JavaScript](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-<br />
 ## Languages
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<br />
+## IDEs
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![JavaScript](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+<br />
+
