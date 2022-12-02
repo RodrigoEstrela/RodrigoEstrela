@@ -1,7 +1,7 @@
 ![rdas-nev's 42 stats](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/stats?cursusId=21&coalitionId=288)
 <br />
 ## 42 Common Core
-42_ philosophers https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2860315
+42_ philosophers [![rdas-nev's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2860315)](https://github.com/RodrigoEstrela/42-philosophers)
 <br />
 42_pipex         [![rdas-nev's 42 pipex Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2554726)](https://github.com/RodrigoEstrela/42-pipex)
 <br />
