@@ -9,7 +9,7 @@
 <br />
 42_FdF           [![rdas-nev's 42 FdF Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2554729)](https://github.com/RodrigoEstrela/42-FdF)
 <br />
-42_Born2beroot   [![rdas-nev's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2524618)]
+42_Born2beroot   ![rdas-nev's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2524618)
 <br />
 42_get_next_line [![rdas-nev's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2524617)](https://github.com/RodrigoEstrela/42-get_next_line)
 <br />
