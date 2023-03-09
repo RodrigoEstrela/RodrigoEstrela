@@ -1,6 +1,10 @@
 ![rdas-nev's 42 stats](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/stats?cursusId=21&coalitionId=288)
 <br />
 ## 42 Common Core
+42_NetPractice [![rdas-nev's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2983562)](https://github.com/RodrigoEstrela/)
+<br />
+42_miniRT        [![rdas-nev's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2983563)](https://github.com/RodrigoEstrela/42-miniRT)
+<br />
 42_minishell     [![rdas-nev's 42 minishell Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2768602)](https://github.com/RodrigoEstrela/42-minishell)
 <br />
 42_ philosophers [![rdas-nev's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2860315)](https://github.com/RodrigoEstrela/42-philosophers)
