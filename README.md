@@ -1,4 +1,4 @@
-[![rdas-nev's 42 stats](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/stats?cursusId=21&coalitionId=290)]
+![rdas-nev's 42 stats](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/stats?cursusId=21&coalitionId=290)
 <br />
 ## 42 Common Core
 42_NetPractice [![rdas-nev's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl60v9pk0000609mmz6y2ovcn/project/2983562)](https://github.com/RodrigoEstrela/)
